@@ -1,0 +1,4 @@
+.root {
+    -fx-background-image: url('startup.jpg');
+    -fx-background-size: cover;
+}

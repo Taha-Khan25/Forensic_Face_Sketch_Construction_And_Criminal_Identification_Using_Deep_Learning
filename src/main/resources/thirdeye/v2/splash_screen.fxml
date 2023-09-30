@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="splash" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1024.0" styleClass=".root" stylesheets="@style.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="thirdeye.v2.splash_screenController">
+   <children>
+      <Text fill="WHITE" layoutX="41.0" layoutY="245.0" stroke="#00000085" strokeType="OUTSIDE" strokeWidth="3.0" style="-fx-font-family: Roboto;" text="A Forensic Face Sketch Creator" wrappingWidth="323.0854187011719">
+         <font>
+            <Font name="Century Schoolbook" size="49.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="715.0" layoutY="583.0" strokeType="OUTSIDE" strokeWidth="0.0">
+         <font>
+            <Font name="Futura Bk BT Book" size="14.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

@@ -1,0 +1,28 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+
+.panel
+{
+-fx-background-image: url("side_panel.png");
+    -fx-background-size: 100%;
+}
+
+.texture
+{
+-fx-background-image: url("texture.jpg");
+ -fx-background-size: cover;
+
+
+}
+
+.top
+{
+-fx-background-image: url("top.jpg");
+ -fx-background-size: cover;
+
+}
